@@ -4,4 +4,4 @@ That's about it
 
 
 oh yeah I'm trying to learn html/css:
-I usually js and python 
+I usually use js and python 
